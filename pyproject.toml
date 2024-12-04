@@ -1,0 +1,5 @@
+[tool.yapf]
+column_limit = 120
+
+[tool.yapfignore]
+ignore_patterns = ["build/**/*.py"]
